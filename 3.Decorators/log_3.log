@@ -1,0 +1,20 @@
+Дата: 14.07.23 | Время: 22:46:52
+<function test_2.<locals>.hello_world at 0x0000021A11629900>
+(){}
+Hello World
+
+Дата: 14.07.23 | Время: 22:46:52
+<function test_2.<locals>.summator at 0x0000021A11629870>
+(2, 2){}
+4
+
+Дата: 14.07.23 | Время: 22:46:52
+<function test_2.<locals>.div at 0x0000021A11629240>
+(6, 2){}
+3.0
+
+Дата: 14.07.23 | Время: 22:46:52
+<function test_2.<locals>.summator at 0x0000021A11629870>
+(4.3,){'b': 2.2}
+6.5
+
