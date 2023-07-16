@@ -29,8 +29,6 @@ def top_3_names(data: list) -> list:
     return rating[:3]
 
 
-def generate_teachers_dict(courses, mentors):
+def generate_teachers_dict(courses: list, mentors: list) -> dict:
     result = dict(zip(courses, mentors))
     return result
-
-
